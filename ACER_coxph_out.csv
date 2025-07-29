@@ -1,0 +1,3 @@
+Treatment,estimate,conf.low,conf.high,p.value,log.estimate,log.conf.low,log.conf.high
+2 mm,16.27,2.137,123.8,0.007,2.789322921,0.759402976,4.81866736
+4 mm,24.96,3.335,186.8,0.00173,3.217274544,1.204472679,5.230038526

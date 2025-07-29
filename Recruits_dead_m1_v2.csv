@@ -1,0 +1,217 @@
+Age,Species,Day,Replicate,Treatment,Status,No_recruits,Total_no_recruits,Prop,Binary,Notes
+1 month,Pstr,1,1,control,dead,0,1,0.0,0.0,
+1 month,Pstr,1,1,2mm,dead,0,1,0.0,0.0,
+1 month,Pstr,1,1,4mm,dead,0,1,0.0,0.0,
+1 month,Pstr,1,2,control,dead,0,3,0.0,0.0,
+1 month,Pstr,1,2,2mm,dead,0,2,0.0,0.0,
+1 month,Pstr,1,2,4mm,dead,0,2,0.0,0.0,
+1 month,Pstr,1,3,control,dead,0,2,0.0,0.0,
+1 month,Pstr,1,3,2mm,dead,0,3,0.0,0.0,receding w/ exposed skeleton
+1 month,Pstr,1,3,4mm,dead,1,3,0.3,0.0,
+1 month,Pstr,1,4,control,dead,0,9,0.0,0.0,
+1 month,Pstr,1,4,2mm,dead,0,5,0.0,0.0,
+1 month,Pstr,1,4,4mm,dead,0,7,0.0,0.0,all look tightly pulled in + not happy
+1 month,Ofav,1,1,control,dead,0,1,0.0,0.0,
+1 month,Ofav,1,1,2mm,dead,0,2,0.0,0.0,
+1 month,Ofav,1,1,4mm,dead,0,1,0.0,0.0,alive but extremely retracted
+1 month,Ofav,1,2,control,dead,0,4,0.0,0.0,
+1 month,Ofav,1,2,2mm,dead,0,3,0.0,0.0,the 3rd dying still (was Day 0)
+1 month,Ofav,1,2,4mm,dead,0,4,0.0,0.0,one extremely pulled in
+1 month,Ofav,1,3,control,dead,0,122,0.0,0.0,
+1 month,Ofav,1,3,2mm,dead,0,64,0.0,0.0,one appears to be dying
+1 month,Ofav,1,3,4mm,dead,0,171,0.0,0.0,about half are retracted
+1 month,Ofav,1,4,control,dead,0,173,0.0,0.0,all polyps out and happy
+1 month,Ofav,1,4,2mm,dead,0,181,0.0,0.0,about half are extremely retracted
+1 month,Ofav,1,4,4mm,dead,0,252,0.0,0.0,about half are extremely retracted
+1 month,Cnat,1,1,control,dead,0,1,0.0,0.0,
+1 month,Cnat,1,1,2mm,dead,0,1,0.0,0.0,
+1 month,Cnat,1,1,4mm,dead,1,1,1.0,1.0,"tissue left, but pretty sure dead (extremely small)"
+1 month,Cnat,1,2,control,dead,0,8,0.0,0.0,three extremely retracted
+1 month,Cnat,1,2,2mm,dead,0,2,0.0,0.0,
+1 month,Cnat,1,2,4mm,dead,0,2,0.0,0.0,both extremely retracted
+1 month,Cnat,1,3,control,dead,0,3,0.0,0.0,all extremely retracted
+1 month,Cnat,1,3,2mm,dead,0,7,0.0,0.0,
+1 month,Cnat,1,3,4mm,dead,0,2,0.0,0.0,
+1 month,Cnat,1,4,control,dead,0,11,0.0,0.0,
+1 month,Cnat,1,4,2mm,dead,0,47,0.0,0.0,
+1 month,Cnat,1,4,4mm,dead,1,3,0.3,0.0,"one dead, you can see fluorecsence but nothing under white light"
+1 month,Pstr,2,1,control,dead,0,2,0.0,0.0,two alive/one solo really unhealthy
+1 month,Pstr,2,1,2mm,dead,0,2,0.0,0.0,two tissue losee @ edges
+1 month,Pstr,2,1,4mm,dead,2,2,1.0,1.0,one: no tissue left/ two: tissue melting off
+1 month,Pstr,2,2,control,dead,0,30,0.0,0.0,top 27-26 receding & clear. 1 polyps extended & zoox
+1 month,Pstr,2,2,2mm,dead,0,27,0.0,0.0,four tissue receding in middle (bottom left)
+1 month,Pstr,2,2,4mm,dead,1,20,0.1,0.0,"13 - receding melted tissue. 8 - (7 mlted, 1 dead)"
+1 month,Pstr,2,3,control,dead,0,1,0.0,0.0,alive!
+1 month,Pstr,2,3,2mm,dead,0,1,0.0,0.0,easily seen under blue - so hard to find under white
+1 month,Pstr,2,3,4mm,dead,1,1,1.0,1.0,tissue receding - no mouth
+1 month,Pstr,2,4,control,dead,0,4,0.0,0.0,alive!
+1 month,Pstr,2,4,2mm,dead,0,5,0.0,0.0,6 mouths -alive!
+1 month,Pstr,2,4,4mm,dead,4,4,1.0,1.0,"all dead - 2 no tissue, 2 melting"
+1 month,Ofav,2,1,control,dead,0,2,0.0,0.0,"one healthy, one pulled into polyp"
+1 month,Ofav,2,1,2mm,dead,1,3,0.3,0.0,"one helalthy, one receding in polyp"
+1 month,Ofav,2,1,4mm,dead,3,3,1.0,1.0,"two skeleton, one melting tissue"
+1 month,Ofav,2,2,control,dead,3,14,0.2,0.0,"three dead, rest alive, none happy"
+1 month,Ofav,2,2,2mm,dead,11,13,0.8,1.0,"top 10 dead, two alive + receded, last dead"
+1 month,Ofav,2,2,4mm,dead,14,18,0.8,1.0,"14/16 dead, two bottom alive"
+1 month,Ofav,2,3,control,dead,0,3,0.0,0.0,alive!
+1 month,Ofav,2,3,2mm,dead,0,2,0.0,0.0,"one alive, other alive but mucusy"
+1 month,Ofav,2,3,4mm,dead,1,1,1.0,1.0,tissue melted off
+1 month,Ofav,2,4,control,dead,0,19,0.0,0.0,swapping w/ day 10 +2mm
+1 month,Ofav,2,4,2mm,dead,2,5,0.4,0.0,"4 recruits missed, 3 alive, 2 dead *three missed added to plug map"
+1 month,Ofav,2,4,4mm,dead,2,2,1.0,1.0,tissue remaining actively dying
+1 month,Cnat,2,1,control,dead,0,5,0.0,0.0,all extremely retracted
+1 month,Cnat,2,1,2mm,dead,0,2,0.0,0.0,one extremely retracted
+1 month,Cnat,2,1,4mm,dead,0,2,0.0,0.0,alive is not doing well. 20% tissue loss
+1 month,Cnat,2,2,control,dead,0,10,0.0,0.0,3 retracted + unhappy
+1 month,Cnat,2,2,2mm,dead,0,10,0.0,0.0,7 extremely retracted + eol
+1 month,Cnat,2,2,4mm,dead,5,7,0.7,1.0,3 live are extremely retracted
+1 month,Cnat,2,3,control,dead,0,1,0.0,0.0,"happy & healthy, rep pic"
+1 month,Cnat,2,3,2mm,dead,0,1,0.0,0.0,alive!
+1 month,Cnat,2,3,4mm,dead,1,1,1.0,1.0,dead + using for representative pics
+1 month,Cnat,2,4,control,dead,0,10,0.0,0.0,all but 2 extremely retracted
+1 month,Cnat,2,4,2mm,dead,1,8,0.1,0.0,8 alive aren't happy and retracted
+1 month,Cnat,2,4,4mm,dead,0,9,0.0,0.0,all retracted
+1 month,Pstr,3,1,control,dead,0,10,0.0,0.0,all receding in polyp - a little sed on tile
+1 month,Pstr,3,1,2mm,dead,2,7,0.3,0.0,one living's tissue is melting
+1 month,Pstr,3,1,4mm,dead,7,7,1.0,1.0,all dead w/ melting tissue
+1 month,Pstr,3,2,control,dead,0,27,0.0,0.0,
+1 month,Pstr,3,2,2mm,dead,14,17,0.8,1.0,
+1 month,Pstr,3,2,4mm,dead,7,14,0.5,1.0,one dead tissue melting off
+1 month,Pstr,3,3,control,dead,1,1,1.0,1.0,clean dead skeleton
+1 month,Pstr,3,3,2mm,dead,1,1,1.0,1.0,
+1 month,Pstr,3,3,4mm,dead,1,1,1.0,1.0,dead w/ tissue melting
+1 month,Pstr,3,4,control,dead,0,1,0.0,0.0,alive but unhappy
+1 month,Pstr,3,4,2mm,dead,0,11,0.0,0.0,alive!
+1 month,Pstr,3,4,4mm,dead,4,7,0.6,1.0,
+1 month,Ofav,3,1,control,dead,0,5,0.0,0.0,alive - not showing under blue light
+1 month,Ofav,3,1,2mm,dead,0,8,0.0,0.0,
+1 month,Ofav,3,1,4mm,dead,5,6,0.8,1.0,dead - just cups left - alive is in middle tile
+1 month,Ofav,3,2,control,dead,1,71,0.0,0.0,2 actively dying/70 alive not fluores
+1 month,Ofav,3,2,2mm,dead,63,73,0.9,1.0,
+1 month,Ofav,3,2,4mm,dead,71,130,0.5,1.0,"35 alive on right, 25 alive on left"
+1 month,Ofav,3,3,control,dead,0,1,0.0,0.0,very tiny - alive!
+1 month,Ofav,3,3,2mm,dead,0,1,0.0,0.0,"very tiny, alive not doing great though"
+1 month,Ofav,3,3,4mm,dead,1,1,1.0,1.0,
+1 month,Ofav,3,4,control,dead,0,18,0.0,0.0,11 alive - 1 actively dying/melting
+1 month,Ofav,3,4,2mm,dead,0,29,0.0,0.0,all in groove
+1 month,Ofav,3,4,4mm,dead,1,50,0.0,0.0,
+1 month,Cnat,3,1,control,dead,0,3,0.0,0.0,
+1 month,Cnat,3,1,2mm,dead,0,3,0.0,0.0,
+1 month,Cnat,3,1,4mm,dead,0,2,0.0,0.0,alive but not happy
+1 month,Cnat,3,2,control,dead,0,1,0.0,0.0,not retracted - actively losing zoox
+1 month,Cnat,3,2,2mm,dead,0,1,0.0,0.0,alive but retracted
+1 month,Cnat,3,2,4mm,dead,0,1,0.0,0.0,"retracted, alive w/ zoox"
+1 month,Cnat,3,3,control,dead,0,1,0.0,0.0,alive but receding tissue inwards
+1 month,Cnat,3,3,2mm,dead,0,1,0.0,0.0,alive but retracted
+1 month,Cnat,3,3,4mm,dead,1,1,1.0,1.0,dead & melting - no mouth
+1 month,Cnat,3,4,control,dead,0,1,0.0,0.0,
+1 month,Cnat,3,4,2mm,dead,1,2,0.5,1.0,dead is receded
+1 month,Cnat,3,4,4mm,dead,0,2,0.0,0.0,one is receding
+1 month,Pstr,5,1,control,dead,1,14,0.1,0.0,live retracted
+1 month,Pstr,5,1,2mm,dead,7,19,0.4,0.0,hard to tell condition
+1 month,Pstr,5,1,4mm,dead,17,17,1.0,1.0,
+1 month,Pstr,5,2,control,dead,0,10,0.0,0.0,healthy
+1 month,Pstr,5,2,2mm,dead,1,9,0.1,0.0,retracted
+1 month,Pstr,5,2,4mm,dead,11,11,1.0,1.0,
+1 month,Pstr,5,3,control,dead,0,2,0.0,0.0,"one healthy, one slight skeleton exposed"
+1 month,Pstr,5,3,2mm,dead,0,4,0.0,0.0,all losing tissue but still have tenticles
+1 month,Pstr,5,3,4mm,dead,0,2,0.0,0.0,retracted
+1 month,Pstr,5,4,control,dead,0,1,0.0,0.0,healthy
+1 month,Pstr,5,4,2mm,dead,1,1,1.0,1.0,
+1 month,Pstr,5,4,4mm,dead,1,1,1.0,1.0,
+1 month,Ofav,5,1,control,dead,0,11,0.0,0.0,healthy
+1 month,Ofav,5,1,2mm,dead,2,17,0.1,0.0,"two live extremely retracted, others healthy"
+1 month,Ofav,5,1,4mm,dead,5,13,0.4,0.0,live healthy
+1 month,Ofav,5,2,control,dead,0,6,0.0,0.0,healthy
+1 month,Ofav,5,2,2mm,dead,17,17,1.0,1.0,
+1 month,Ofav,5,2,4mm,dead,36,62,0.6,1.0,"live ones like fine, clumped with some dead"
+1 month,Ofav,5,3,control,dead,11,27,0.4,0.0,live look okay
+1 month,Ofav,5,3,2mm,dead,4,15,0.3,0.0,two live ones losing tissue
+1 month,Ofav,5,3,4mm,dead,11,11,1.0,1.0,
+1 month,Ofav,5,4,control,dead,0,1,0.0,0.0,healthy
+1 month,Ofav,5,4,2mm,dead,0,1,0.0,0.0,healthy
+1 month,Ofav,5,4,4mm,dead,1,1,1.0,1.0,
+1 month,Cnat,5,1,control,dead,0,8,0.0,0.0,"7 retracted, 2 healthy"
+1 month,Cnat,5,1,2mm,dead,2,6,0.3,0.0,live - healthy
+1 month,Cnat,5,1,4mm,dead,0,6,0.0,0.0,"three live - hard to tell condition, one live - exposed skeleton"
+1 month,Cnat,5,2,control,dead,3,4,0.8,1.0,live - looks okay
+1 month,Cnat,5,2,2mm,dead,1,5,0.2,0.0,"two live ones losing tissue, tohers hard to tell"
+1 month,Cnat,5,2,4mm,dead,2,4,0.5,1.0,"one live - losing tissue, other okay"
+1 month,Cnat,5,3,control,dead,0,21,0.0,0.0,retracted
+1 month,Cnat,5,3,2mm,dead,0,3,0.0,0.0,retracted
+1 month,Cnat,5,3,4mm,dead,4,4,1.0,1.0,
+1 month,Cnat,5,4,control,dead,0,1,0.0,0.0,retracted
+1 month,Cnat,5,4,2mm,dead,0,1,0.0,0.0,retracted
+1 month,Cnat,5,4,4mm,dead,0,1,0.0,0.0,retracted
+1 month,Pstr,7,1,control,dead,2,2,1.0,1.0,
+1 month,Pstr,7,1,2mm,dead,0,3,0.0,0.0,look okay
+1 month,Pstr,7,1,4mm,dead,3,3,1.0,1.0,
+1 month,Pstr,7,2,control,dead,0,1,0.0,0.0,retracted
+1 month,Pstr,7,2,2mm,dead,1,1,1.0,1.0,
+1 month,Pstr,7,2,4mm,dead,1,1,1.0,1.0,
+1 month,Pstr,7,3,control,dead,0,20,0.0,0.0,retracted
+1 month,Pstr,7,3,2mm,dead,1,27,0.0,0.0,"hard to see, no zoox"
+1 month,Pstr,7,3,4mm,dead,0,12,0.0,0.0,retracted
+1 month,Pstr,7,4,control,dead,0,6,0.0,0.0,"three look extremely retracted, three look healthy"
+1 month,Pstr,7,4,2mm,dead,5,10,0.5,1.0,live - retracted
+1 month,Pstr,7,4,4mm,dead,10,10,1.0,1.0,
+1 month,Ofav,7,1,control,dead,0,72,0.0,0.0,no zoox - hard to tell condition
+1 month,Ofav,7,1,2mm,dead,55,130,0.4,0.0,no zoox - hard to tell condition
+1 month,Ofav,7,1,4mm,dead,11,34,0.3,0.0,live looked okay
+1 month,Ofav,7,2,control,dead,1,1,1.0,1.0,
+1 month,Ofav,7,2,2mm,dead,0,1,0.0,0.0,retracted - possible tissue loss in center
+1 month,Ofav,7,2,4mm,dead,0,1,0.0,0.0,extremely retracted
+1 month,Ofav,7,3,control,dead,0,93,0.0,0.0,"all alive, all healthy"
+1 month,Ofav,7,3,2mm,dead,1,102,0.0,0.0,live look healthy
+1 month,Ofav,7,3,4mm,dead,68,100,0.7,1.0,live look okay/healthy
+1 month,Ofav,7,4,control,dead,0,2,0.0,0.0,healthy
+1 month,Ofav,7,4,2mm,dead,2,2,1.0,1.0,all dead
+1 month,Ofav,7,4,4mm,dead,3,3,1.0,1.0,
+1 month,Cnat,7,1,control,dead,0,2,0.0,0.0,
+1 month,Cnat,7,1,2mm,dead,0,2,0.0,0.0,hard to see - no zoox
+1 month,Cnat,7,1,4mm,dead,2,2,1.0,1.0,
+1 month,Cnat,7,2,control,dead,0,1,0.0,0.0,
+1 month,Cnat,7,2,2mm,dead,0,1,0.0,0.0,
+1 month,Cnat,7,2,4mm,dead,1,1,1.0,1.0,
+1 month,Cnat,7,3,control,dead,0,7,0.0,0.0,hard to see - no zoox
+1 month,Cnat,7,3,2mm,dead,0,3,0.0,0.0,
+1 month,Cnat,7,3,4mm,dead,2,7,0.3,0.0,two dead were solidary
+1 month,Cnat,7,4,control,dead,0,15,0.0,0.0,
+1 month,Cnat,7,4,2mm,dead,4,10,0.4,0.0,alive were healthy
+1 month,Cnat,7,4,4mm,dead,7,7,1.0,1.0,"decaying tissue inside skeleton, example photo"
+1 month,Pstr,10,1,control,dead,0,32,0.0,0.0,healthy
+1 month,Pstr,10,1,2mm,dead,13,16,0.8,1.0,3 live look healthy
+1 month,Pstr,10,1,4mm,dead,22,22,1.0,1.0,
+1 month,Pstr,10,2,control,dead,1,3,0.3,0.0,"2 healthy, 1 retracted"
+1 month,Pstr,10,2,2mm,dead,0,3,0.0,0.0,"4 live, retracted"
+1 month,Pstr,10,2,4mm,dead,4,4,1.0,1.0,
+1 month,Pstr,10,3,control,dead,0,9,0.0,0.0,"5 retracted, 5 healthy"
+1 month,Pstr,10,3,2mm,dead,2,9,0.2,0.0,"2 retracted, 6 healthy"
+1 month,Pstr,10,3,4mm,dead,11,11,1.0,1.0,
+1 month,Pstr,10,4,control,dead,0,26,0.0,0.0,all but 2 extremely retracted
+1 month,Pstr,10,4,2mm,dead,0,15,0.0,0.0,"all alive, but retracted"
+1 month,Pstr,10,4,4mm,dead,1,17,0.1,0.0,"cluster of 16 live, one solutary dead"
+1 month,Ofav,10,1,control,dead,3,101,0.0,0.0,"no zoox, hard to see health status"
+1 month,Ofav,10,1,2mm,dead,3,124,0.0,0.0,live look okay
+1 month,Ofav,10,1,4mm,dead,36,38,0.9,1.0,"2 live healthy, 1 live losing tissue"
+1 month,Ofav,10,2,control,dead,6,230,0.0,0.0,"4 dead tissue loss, 80% live look healthy"
+1 month,Ofav,10,2,2mm,dead,70,81,0.9,1.0,live look okay
+1 month,Ofav,10,2,4mm,dead,31,31,1.0,1.0,
+1 month,Ofav,10,3,control,dead,0,74,0.0,0.0,all live healthy
+1 month,Ofav,10,3,2mm,dead,17,62,0.3,0.0,"2 clump dead, 5 clumps live, 1 clump half live/half dead, live 80% healthy"
+1 month,Ofav,10,3,4mm,dead,78,78,1.0,1.0,
+1 month,Ofav,10,4,control,dead,0,13,0.0,0.0,all live look healthy
+1 month,Ofav,10,4,2mm,dead,5,5,1.0,1.0,"tile wrong on diagram, lixed with Day 2 C"
+1 month,Ofav,10,4,4mm,dead,19,25,0.8,1.0,"2 clump live, 1 clump dead, live look okay"
+1 month,Cnat,10,1,control,dead,0,1,0.0,0.0,"no zoox, hard to tell health"
+1 month,Cnat,10,1,2mm,dead,0,1,0.0,0.0,retracted
+1 month,Cnat,10,1,4mm,dead,0,1,0.0,0.0,"no zoox, hard to tell health"
+1 month,Cnat,10,2,control,dead,0,2,0.0,0.0,both retracted
+1 month,Cnat,10,2,2mm,dead,0,5,0.0,0.0,"all live, one live shrinking (dead?)"
+1 month,Cnat,10,2,4mm,dead,0,2,0.0,0.0,retracted
+1 month,Cnat,10,3,control,dead,0,10,0.0,0.0,"no zoox, hard to tell health, couple look retracted"
+1 month,Cnat,10,3,2mm,dead,1,10,0.1,0.0,half live retracted
+1 month,Cnat,10,3,4mm,dead,11,11,1.0,1.0,
+1 month,Cnat,10,4,control,dead,0,7,0.0,0.0,extremely retracted
+1 month,Cnat,10,4,2mm,dead,1,9,0.1,0.0,"correction: 9 before?, 1? dead 10% tissue left? Should look at Day 0 photo to compare"
+1 month,Cnat,10,4,4mm,dead,4,9,0.4,0.0,2 live 50% tissue loss/dying

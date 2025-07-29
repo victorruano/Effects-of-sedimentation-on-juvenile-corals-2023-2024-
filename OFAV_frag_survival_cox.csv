@@ -1,0 +1,217 @@
+﻿Size_cm,Species,Genotype,Treatment,Treatment_n,Day,Replicate,Status,Status_bi,Notes
+1,Ofav,B,2mm,2,1,1,alive,0,<1mm max height of coral sticking above sediment on day 0
+1.5,Ofav,B,4mm,4,1,1,alive,0,
+2,Ofav,B,control,0,1,1,alive,0,
+1.5,Ofav,B,2mm,2,1,2,alive,0,
+2,Ofav,B,4mm,4,1,2,alive,0,2mm max height of coral sticking above sediment on day 0
+1,Ofav,B,control,0,1,2,alive,0,
+1,Ofav,A,4mm,4,1,3,alive,0,
+1.5,Ofav,A,control,0,1,3,alive,0,
+2,Ofav,A,2mm,2,1,3,alive,0,
+2,Ofav,F,control,0,1,4,alive,0,
+1,Ofav,F,2mm,2,1,4,alive,0,pale
+1.5,Ofav,F,4mm,4,1,4,alive,0,
+2,Ofav,F,4mm,4,1,5,alive,0,
+1,Ofav,F,control,0,1,5,alive,0,pale
+1.5,Ofav,F,2mm,2,1,5,alive,0,
+1.5,Ofav,A,control,0,1,6,alive,0,
+2,Ofav,A,2mm,2,1,6,alive,0,"Double check, pictures might be missing"
+1,Ofav,A,4mm,4,1,6,alive,0,
+1,Ofav,E,2mm,2,1,7,alive,0,
+1.5,Ofav,E,4mm,4,1,7,alive,0,Pale around edges
+2,Ofav,E,control,0,1,7,alive,0,
+1.5,Ofav,E,2mm,2,1,8,alive,0,<1mm max height of coral sticking above sediment on day 0
+2,Ofav,E,4mm,4,1,8,alive,0,
+1,Ofav,E,control,0,1,8,alive,0,
+1,Ofav,F,4mm,4,1,9,alive,0,
+1.5,Ofav,F,control,0,1,9,alive,0,pale on lower edge
+2,Ofav,F,2mm,2,1,9,alive,0,
+2,Ofav,B,control,0,1,10,alive,0,
+1,Ofav,B,2mm,2,1,10,alive,0,
+1.5,Ofav,B,4mm,4,1,10,alive,0,
+2,Ofav,C,4mm,4,1,11,alive,0,
+1,Ofav,C,control,0,1,11,alive,0,
+1.5,Ofav,C,2mm,2,1,11,alive,0,pale from one extremity
+1.5,Ofav,D,control,0,1,12,alive,0,
+2,Ofav,D,2mm,2,1,12,alive,0,pale blotches in the center
+1,Ofav,D,4mm,4,1,12,alive,0,pale blotches in the center
+2,Ofav,F,4mm,4,2,1,alive,0,"barely alive, polyps extremely receded, mostly pale"
+1,Ofav,F,control,0,2,1,alive,0,pale
+1.5,Ofav,F,2mm,2,2,1,alive,0,partial mortality (~80%)
+2,Ofav,A,2mm,2,2,2,alive,0,
+1,Ofav,A,4mm,4,2,2,alive,0,pale
+1.5,Ofav,A,control,0,2,2,alive,0,
+2,Ofav,B,control,0,2,3,alive,0,
+1,Ofav,B,2mm,2,2,3,alive,0,
+1.5,Ofav,B,4mm,4,2,3,alive,0,pale
+2,Ofav,B,4mm,4,2,4,alive,0,pale
+1,Ofav,B,control,0,2,4,alive,0,
+1.5,Ofav,B,2mm,2,2,4,alive,0,half of colony pale
+2,Ofav,F,2mm,2,2,5,alive,0,"barely alive, polyps extremely receded, mostly pale"
+1,Ofav,F,4mm,4,2,5,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+1.5,Ofav,F,control,0,2,5,alive,0,
+2,Ofav,E,control,0,2,6,alive,0,
+1,Ofav,E,2mm,2,2,6,alive,0,half of colony pale
+1.5,Ofav,E,4mm,4,2,6,alive,0,few pale blotches
+2,Ofav,A,4mm,4,2,7,alive,0,pale blotches throughout colony
+1,Ofav,A,control,0,2,7,alive,0,
+1.5,Ofav,A,2mm,2,2,7,alive,0,slightly blothced
+2,Ofav,F,2mm,2,2,8,alive,0,pale blotches throughout colony
+1,Ofav,F,4mm,4,2,8,alive,0,pale and polyps extremely receded
+1.5,Ofav,F,control,0,2,8,alive,0,
+2,Ofav,D,control,0,2,9,alive,0,
+1,Ofav,D,2mm,2,2,9,alive,0,pale
+1.5,Ofav,D,4mm,4,2,9,alive,0,pale
+2,Ofav,E,4mm,4,2,10,alive,0,pale
+1,Ofav,E,control,0,2,10,alive,0,
+1.5,Ofav,E,2mm,2,2,10,alive,0,<1mm max height of coral sticking above sediment on day 0
+2,Ofav,D,2mm,2,2,11,alive,0,half of colony pale
+1,Ofav,D,4mm,4,2,11,alive,0,pale with blotches
+1.5,Ofav,D,control,0,2,11,alive,0,
+2,Ofav,B,control,0,2,12,alive,0,
+1,Ofav,B,2mm,2,2,12,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+1.5,Ofav,B,4mm,4,2,12,alive,0,pale
+1.5,Ofav,A,control,0,3,1,alive,0,
+2,Ofav,A,2mm,2,3,1,alive,0,pale and polyps extremely receded
+1,Ofav,A,4mm,4,3,1,alive,0,pale and polyps extremely receded
+1.5,Ofav,F,4mm,4,3,2,dead,1,
+2,Ofav,F,control,0,3,2,alive,0,
+1,Ofav,F,2mm,2,3,2,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+1.5,Ofav,C,2mm,2,3,3,alive,0,"mostly alive, partial mortality divided colony through  the middle"
+2,Ofav,C,4mm,4,3,3,alive,0,"barely alive, mostly dead, surviving polyps pale"
+1,Ofav,C,control,0,3,3,alive,0,
+1.5,Ofav,A,2mm,2,3,4,alive,0,"barely alive, surviving polyps extremely receded"
+2,Ofav,A,4mm,4,3,4,alive,0,pale blotches throughout colony
+1,Ofav,A,control,0,3,4,alive,0,
+2,Ofav,E,control,0,3,5,alive,0,
+1,Ofav,E,2mm,2,3,5,dead,1,
+1.5,Ofav,E,4mm,4,3,5,alive,0,"mostly dead, small portion of tissue alive (~10%)"
+1.5,Ofav,D,2mm,2,3,6,alive,0,"mostly dead, small portion of tissue alive (~5%)"
+2,Ofav,D,4mm,4,3,6,alive,0,"mostly dead, one polyp alive"
+1,Ofav,D,control,0,3,6,alive,0,
+1.5,Ofav,F,control,0,3,7,alive,0,
+2,Ofav,F,2mm,2,3,7,dead,1,
+1,Ofav,F,4mm,4,3,7,dead,1,
+1.5,Ofav,B,4mm,4,3,8,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+2,Ofav,B,control,0,3,8,alive,0,
+1,Ofav,B,2mm,2,3,8,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+1.5,Ofav,A,2mm,2,3,9,alive,0,"barely alive, polyps extremely receded"
+2,Ofav,A,4mm,4,3,9,alive,0,"barely alive, polyps extremely receded"
+1,Ofav,A,control,0,3,9,alive,0,
+1,Ofav,F,4mm,4,3,10,dead,1,
+1.5,Ofav,F,control,0,3,10,alive,0,
+2,Ofav,F,2mm,2,3,10,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+2,Ofav,B,control,0,3,11,alive,0,
+1,Ofav,B,2mm,2,3,11,dead,1,
+1.5,Ofav,B,4mm,4,3,11,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+1.5,Ofav,A,2mm,2,3,12,alive,0,"barely alive, polyps extremely receded"
+2,Ofav,A,4mm,4,3,12,alive,0,"barely alive, polyps extremely receded"
+1,Ofav,A,control,0,3,12,alive,0,
+1.5,Ofav,C,2mm,2,5,1,alive,0,2mm max height of coral sticking above sediment on day 0
+2,Ofav,C,4mm,4,5,1,dead,1,
+1,Ofav,C,control,0,5,1,alive,0,
+1.5,Ofav,E,control,0,5,2,alive,0,
+2,Ofav,E,2mm,2,5,2,dead,1,
+1,Ofav,E,4mm,4,5,2,alive,0,barely alive by 1 polyp
+1.5,Ofav,E,4mm,4,5,3,dead,1,
+2,Ofav,E,control,0,5,3,alive,0,
+1,Ofav,E,2mm,2,5,3,alive,0,1mm max height of coral sticking above sediment on day 0
+1,Ofav,B,4mm,4,5,4,dead,1,
+1.5,Ofav,B,control,0,5,4,alive,0,
+2,Ofav,B,2mm,2,5,4,dead,1,
+1.5,Ofav,B,control,0,5,5,alive,0,
+2,Ofav,B,2mm,2,5,5,dead,1,
+1,Ofav,B,4mm,4,5,5,dead,1,
+1.5,Ofav,B,4mm,4,5,6,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+2,Ofav,B,control,0,5,6,alive,0,
+1,Ofav,B,2mm,2,5,6,dead,1,
+1.5,Ofav,B,2mm,2,5,7,alive,0,partial mortality (~60%)
+2,Ofav,B,4mm,4,5,7,dead,1,
+1,Ofav,B,control,0,5,7,alive,0,
+1.5,Ofav,F,control,0,5,8,alive,0,
+2,Ofav,F,2mm,2,5,8,alive,0,"barely alive, polyps extremely receded"
+1,Ofav,F,4mm,4,5,8,alive,0,"barely alive, polyps extremely receded"
+1.5,Ofav,A,4mm,4,5,9,alive,0,"barely alive, polyps extremely receded"
+2,Ofav,A,control,0,5,9,alive,0,
+1,Ofav,A,2mm,2,5,9,alive,0,partial mortality (~30%)
+1.5,Ofav,D,2mm,2,5,10,alive,0,<1mm max height of coral sticking above sediment on day 0; partial mortality (~80%)
+2,Ofav,D,4mm,4,5,10,dead,1,
+1,Ofav,D,control,0,5,10,alive,0,
+1.5,Ofav,F,control,0,5,11,alive,0,
+2,Ofav,F,2mm,2,5,11,dead,1,
+1,Ofav,F,4mm,4,5,11,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+1.5,Ofav,F,4mm,4,5,12,dead,1,
+2,Ofav,F,control,0,5,12,alive,0,
+1,Ofav,F,2mm,2,5,12,alive,0,partial mortality (~50%)
+1.5,Ofav,D,4mm,4,7,1,dead,1,
+2,Ofav,D,control,0,7,1,alive,0,
+1,Ofav,D,2mm,2,7,1,dead,1,
+1,Ofav,D,control,0,7,2,alive,0,
+1.5,Ofav,D,2mm,2,7,2,dead,1,
+2,Ofav,D,4mm,4,7,2,dead,1,
+2,Ofav,F,2mm,2,7,3,dead,1,
+1,Ofav,F,4mm,4,7,3,alive,0,partial mortality (~60%)
+1.5,Ofav,F,control,0,7,3,alive,0,
+2,Ofav,F,control,0,7,4,alive,0,
+1,Ofav,F,2mm,2,7,4,dead,1,
+1.5,Ofav,F,4mm,4,7,4,dead,1,
+1.5,Ofav,B,2mm,2,7,5,dead,1,
+2,Ofav,B,4mm,4,7,5,dead,1,
+1,Ofav,B,control,0,7,5,alive,0,
+1,Ofav,B,4mm,4,7,6,dead,1,
+1.5,Ofav,B,control,0,7,6,alive,0,
+2,Ofav,B,2mm,2,7,6,dead,1,
+1.5,Ofav,C,4mm,4,7,7,dead,1,
+2,Ofav,C,control,0,7,7,alive,0,
+1,Ofav,C,2mm,2,7,7,dead,1,
+1,Ofav,A,control,0,7,8,alive,0,
+1.5,Ofav,A,2mm,2,7,8,dead,1,
+2,Ofav,A,4mm,4,7,8,dead,1,
+2,Ofav,B,2mm,2,7,9,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+1,Ofav,B,4mm,4,7,9,dead,1,
+1.5,Ofav,B,control,0,7,9,alive,0,
+2,Ofav,A,control,0,7,10,alive,0,
+1,Ofav,A,2mm,2,7,10,dead,1,
+1.5,Ofav,A,4mm,4,7,10,dead,1,
+1.5,Ofav,F,2mm,2,7,11,alive,0,<1mm max height of coral sticking above sediment on day 0
+2,Ofav,F,4mm,4,7,11,dead,1,
+1,Ofav,F,control,0,7,11,alive,0,
+1,Ofav,E,4mm,4,7,12,dead,1,
+1.5,Ofav,E,control,0,7,12,alive,0,
+2,Ofav,E,2mm,2,7,12,alive,0,1mm max height of coral sticking above sediment on day 0; partial mortality (~70%)
+1.5,Ofav,F,control,0,10,1,alive,0,
+2,Ofav,F,2mm,2,10,1,alive,0,partial mortality (~80%)
+1,Ofav,F,4mm,4,10,1,dead,1,
+1.5,Ofav,B,4mm,4,10,2,dead,1,
+2,Ofav,B,control,0,10,2,alive,0,
+1,Ofav,B,2mm,2,10,2,dead,1,
+1,Ofav,A,control,0,10,3,alive,0,
+1.5,Ofav,A,2mm,2,10,3,alive,0,
+2,Ofav,A,4mm,4,10,3,dead,1,
+2,Ofav,E,2mm,2,10,4,dead,1,
+1,Ofav,E,4mm,4,10,4,dead,1,
+1.5,Ofav,E,control,0,10,4,alive,0,
+1.5,Ofav,A,4mm,4,10,5,dead,1,
+2,Ofav,A,control,0,10,5,alive,0,
+1,Ofav,A,2mm,2,10,5,alive,0,
+1.5,Ofav,F,2mm,2,10,6,dead,1,
+2,Ofav,F,4mm,4,10,6,dead,1,
+1,Ofav,F,control,0,10,6,alive,0,
+1.5,Ofav,B,control,0,10,7,alive,0,
+2,Ofav,B,2mm,2,10,7,dead,1,
+1,Ofav,B,4mm,4,10,7,alive,0,partial mortality (~30%)
+1.5,Ofav,D,4mm,4,10,8,dead,1,
+2,Ofav,D,control,0,10,8,alive,0,
+1,Ofav,D,2mm,2,10,8,dead,1,
+1,Ofav,E,control,0,10,9,alive,0,
+1.5,Ofav,E,2mm,2,10,9,dead,1,
+2,Ofav,E,4mm,4,10,9,dead,1,
+2,Ofav,F,2mm,2,10,10,dead,1,
+1,Ofav,F,4mm,4,10,10,dead,1,
+1.5,Ofav,F,control,0,10,10,alive,0,
+1.5,Ofav,A,4mm,4,10,11,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+2,Ofav,A,control,0,10,11,alive,0,
+1,Ofav,A,2mm,2,10,11,dead,1,
+1.5,Ofav,B,2mm,2,10,12,alive,0,"barely alive, mostly dead, surviving polyps extremely receded"
+2,Ofav,B,4mm,4,10,12,dead,1,
+1,Ofav,B,control,0,10,12,alive,0,

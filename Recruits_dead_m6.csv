@@ -1,0 +1,73 @@
+Age,Species,Day,Replicate,Treatment,Status,No_recruits,Total_no_recruits,Prop,Binary,Notes
+6 month,Dlab,1,1,2mm,dead,0,9,0.00,0,
+6 month,Dlab,1,1,4mm,dead,0,6,0.00,0,
+6 month,Dlab,1,1,control,dead,0,8,0.00,0,
+6 month,Dlab,1,2,2mm,dead,1,3,0.33,0,singular recruit dead
+6 month,Dlab,1,2,4mm,dead,0,4,0.00,0,mouths all open and sunken in
+6 month,Dlab,1,2,control,dead,0,4,0.00,0,
+6 month,Dlab,1,3,control,dead,0,4,0.00,0,
+6 month,Dlab,1,3,2mm,dead,0,5,0.00,0,
+6 month,Dlab,1,3,4mm,dead,0,6,0.00,0,
+6 month,Dlab,1,4,4mm,dead,0,6,0.00,0,
+6 month,Dlab,1,4,control,dead,0,8,0.00,0,
+6 month,Dlab,1,4,2mm,dead,0,6,0.00,0,
+6 month,Dlab,2,1,4mm,dead,0,6,0.00,0,
+6 month,Dlab,2,1,control,dead,0,3,0.00,0,
+6 month,Dlab,2,1,2mm,dead,0,4,0.00,0,one retracted
+6 month,Dlab,2,2,2mm,dead,2,6,0.33,0,
+6 month,Dlab,2,2,4mm,dead,0,4,0.00,0,one on bottom receeding w/ sand in mouth
+6 month,Dlab,2,2,control,dead,2,5,0.40,1,"two look dead, missed smaller one on initial read"
+6 month,Dlab,2,3,4mm,dead,1,2,0.50,1,
+6 month,Dlab,2,3,control,dead,0,4,0.00,0,
+6 month,Dlab,2,3,2mm,dead,0,3,0.00,0,
+6 month,Dlab,2,4,2mm,dead,0,2,0.00,0,
+6 month,Dlab,2,4,4mm,dead,0,6,0.00,0,
+6 month,Dlab,2,4,control,dead,0,4,0.00,0,
+6 month,Dlab,3,1,control,dead,0,6,0.00,0,
+6 month,Dlab,3,1,2mm,dead,0,2,0.00,0,
+6 month,Dlab,3,1,4mm,dead,0,5,0.00,0,"alive, unwell, hard to see"
+6 month,Dlab,3,2,4mm,dead,0,5,0.00,0,
+6 month,Dlab,3,2,control,dead,0,7,0.00,0,
+6 month,Dlab,3,2,2mm,dead,0,10,0.00,0,
+6 month,Dlab,3,3,4mm,dead,3,6,0.50,1,
+6 month,Dlab,3,3,control,dead,0,8,0.00,0,
+6 month,Dlab,3,3,2mm,dead,0,9,0.00,0,
+6 month,Dlab,3,4,control,dead,0,2,0.00,0,
+6 month,Dlab,3,4,2mm,dead,0,2,0.00,0,
+6 month,Dlab,3,4,4mm,dead,2,2,1.00,1,
+6 month,Dlab,5,1,control,dead,0,7,0.00,0,
+6 month,Dlab,5,1,2mm,dead,0,6,0.00,0,
+6 month,Dlab,5,1,4mm,dead,0,8,0.00,0,alive but unhappy - starting to see skeleton on edges through their tissue
+6 month,Dlab,5,2,control,dead,0,2,0.00,0,
+6 month,Dlab,5,2,2mm,dead,0,2,0.00,0,corals ok - CCA paling
+6 month,Dlab,5,2,4mm,dead,0,4,0.00,0,corals ok - CCA paling
+6 month,Dlab,5,3,control,dead,0,3,0.00,0,
+6 month,Dlab,5,3,2mm,dead,0,4,0.00,0,starting to look pale at bases of colonies
+6 month,Dlab,5,3,4mm,dead,0,2,0.00,0,
+6 month,Dlab,5,4,control,dead,0,13,0.00,0,only counted 13 live - CCA may have overgrown!? See mqr
+6 month,Dlab,5,4,2mm,dead,6,12,0.50,1,
+6 month,Dlab,5,4,4mm,dead,10,10,1.00,1,
+6 month,Dlab,7,1,4mm,dead,2,4,0.50,1,
+6 month,Dlab,7,1,control,dead,0,4,0.00,0,middle 2 receding
+6 month,Dlab,7,1,2mm,dead,0,4,0.00,0,
+6 month,Dlab,7,2,control,dead,0,2,0.00,0,
+6 month,Dlab,7,2,2mm,dead,0,4,0.00,0,
+6 month,Dlab,7,2,4mm,dead,1,3,0.33,0,single dead
+6 month,Dlab,7,3,control,dead,0,9,0.00,0,
+6 month,Dlab,7,3,2mm,dead,6,8,0.75,1,"two singles alive, clump dead"
+6 month,Dlab,7,3,4mm,dead,6,6,1.00,1,
+6 month,Dlab,7,4,2mm,dead,0,2,0.00,0,
+6 month,Dlab,7,4,4mm,dead,3,4,0.75,1,one on edge alive
+6 month,Dlab,7,4,control,dead,0,4,0.00,0,
+6 month,Dlab,10,1,control,dead,2,13,0.15,0,lots of hair algae surrounding corals
+6 month,Dlab,10,1,2mm,dead,0,11,0.00,0,look really healthy
+6 month,Dlab,10,1,4mm,dead,10,12,0.83,1,
+6 month,Dlab,10,2,4mm,dead,7,7,1.00,1,
+6 month,Dlab,10,2,control,dead,0,6,0.00,0,
+6 month,Dlab,10,2,2mm,dead,1,6,0.17,0,one eating sand
+6 month,Dlab,10,3,2mm,dead,0,5,0.00,0,
+6 month,Dlab,10,3,4mm,dead,2,2,1.00,1,
+6 month,Dlab,10,3,control,dead,0,3,0.00,0,
+6 month,Dlab,10,4,4mm,dead,4,4,1.00,1,
+6 month,Dlab,10,4,control,dead,0,3,0.00,0,lots of algae
+6 month,Dlab,10,4,2mm,dead,0,3,0.00,0,CCA surrounding corals

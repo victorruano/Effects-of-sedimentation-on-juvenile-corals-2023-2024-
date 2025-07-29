@@ -1,0 +1,262 @@
+Age,Species,Day,SurveyDay,Replicate,Treatment,Status,No_recruits,Total_no_recruits,Prop,Binary,Notes
+3 month,Acer,1,1,1,2mm,dead,0,1,0,0,"alive, no zoox"
+3 month,Acer,1,1,1,4mm,dead,1,1,1,1,dying/tissue melting
+3 month,Acer,1,1,1,control,dead,0,1,0,0,"alive, no zoox"
+3 month,Acer,1,1,2,2mm,dead,0,3,0,0,"alive, no zoox"
+3 month,Acer,1,1,2,4mm,dead,0,2,0,0,"1 dying/tissue melting, alive look unhealthy, no zoox"
+3 month,Acer,1,1,2,control,dead,0,2,0,0,"unhealthy, one still healthy"
+3 month,Acer,1,1,3,control,dead,0,1,0,0,"alive, w/ zoox, some tissue regression"
+3 month,Acer,1,1,3,2mm,dead,1,2,0.5,1,"alive has zoox, w/ some tissue regression at the top"
+3 month,Acer,1,1,3,4mm,dead,2,2,1,1,
+3 month,Acer,1,1,4,4mm,dead,2,2,1,1,
+3 month,Acer,1,1,4,control,dead,1,6,0.2,0,"alive have zoox, but skeleton sticking out of tissue"
+3 month,Acer,1,1,4,2mm,dead,2,2,1,1,"dying, one w/ zoox, one w/o zoox"
+3 month,Acer,2,2,1,4mm,dead,2,2,1,1,
+3 month,Acer,2,2,1,control,dead,0,4,0,0,
+3 month,Acer,2,2,1,2mm,dead,1,2,0.5,1,"large 1 dead, small 1 dying"
+3 month,Acer,2,2,2,2mm,dead,0,6,0,0,
+3 month,Acer,2,2,2,4mm,dead,6,7,0.9,1,
+3 month,Acer,2,2,2,control,dead,0,7,0,0,retracted tissue 1 w/o zoox
+3 month,Acer,2,2,3,4mm,dead,0,2,0,0,dying
+3 month,Acer,2,2,3,control,dead,0,2,0,0,top dying w/o zoox
+3 month,Acer,2,2,3,2mm,dead,0,2,0,0,"no zoox, unwell"
+3 month,Acer,2,2,4,2mm,dead,1,3,0.3,0,two dying
+3 month,Acer,2,2,4,4mm,dead,2,3,0.7,1,
+3 month,Acer,2,2,4,control,dead,0,2,0,0,still alive but barely breathing
+3 month,Acer,3,3,1,control,dead,0,5,0,0,
+3 month,Acer,3,3,1,2mm,dead,0,5,0,0,
+3 month,Acer,3,3,1,4mm,dead,1,2,0.5,1,
+3 month,Acer,3,3,2,4mm,dead,1,1,1,1,
+3 month,Acer,3,3,2,control,dead,0,1,0,0,
+3 month,Acer,3,3,2,2mm,dead,0,1,0,0,
+3 month,Acer,3,3,3,4mm,dead,3,3,1,1,
+3 month,Acer,3,3,3,control,dead,0,3,0,0,
+3 month,Acer,3,3,3,2mm,dead,1,3,0.3,0,
+3 month,Acer,3,3,4,control,dead,0,1,0,0,
+3 month,Acer,3,3,4,2mm,dead,5,5,1,1,
+3 month,Acer,3,3,4,4mm,dead,2,2,1,1,
+3 month,Acer,5,5,1,control,dead,0,2,0,0,alive and happy
+3 month,Acer,5,5,1,2mm,dead,4,4,1,1,
+3 month,Acer,5,5,1,4mm,dead,1,1,1,1,
+3 month,Acer,5,5,2,control,dead,1,2,0.5,1,one dead was unhealthy @ day 0 - remove?
+3 month,Acer,5,5,2,2mm,dead,3,3,1,1,
+3 month,Acer,5,5,2,4mm,dead,2,2,1,1,mouths full of sediment - see photo
+3 month,Acer,5,5,3,control,dead,1,3,0.3,0,"two alive, have tissue receding"
+3 month,Acer,5,5,3,2mm,dead,3,3,1,1,
+3 month,Acer,5,5,3,4mm,dead,2,2,1,1,sediments in mouth of dead polyps
+3 month,Acer,5,5,4,control,dead,0,1,0,0,unhealthy - tissue receding
+3 month,Acer,5,5,4,2mm,dead,1,1,1,1,
+3 month,Acer,5,5,4,4mm,dead,1,1,1,1,seds in mouth of polyp
+3 month,Acer,7,7,1,4mm,dead,5,5,1,1,
+3 month,Acer,7,7,1,control,dead,0,6,0,0,"two clump - no zoox, unhealthy, other four alive, receded"
+3 month,Acer,7,7,1,2mm,dead,7,9,0.8,1,"top 2 alive, rest dead (fresh), mouth still intact"
+3 month,Acer,7,7,2,control,dead,0,2,0,0,
+3 month,Acer,7,7,2,2mm,dead,2,2,1,1,
+3 month,Acer,7,7,2,4mm,dead,1,1,1,1,
+3 month,Acer,7,7,3,control,dead,0,1,0,0,no zoox
+3 month,Acer,7,7,3,2mm,dead,1,1,1,1,
+3 month,Acer,7,7,3,4mm,dead,0,1,0,0,no zoox
+3 month,Acer,7,7,4,2mm,dead,3,5,0.6,1,top 2 barely alive
+3 month,Acer,7,7,4,4mm,dead,0,3,0,0,"all alive, barely hanging on, no zoox"
+3 month,Acer,7,7,4,control,dead,0,4,0,0,"all alive, no zoox"
+3 month,Acer,10,10,1,control,dead,0,3,0,0,
+3 month,Acer,10,10,1,2mm,dead,3,3,1,1,
+3 month,Acer,10,10,1,4mm,dead,3,3,1,1,
+3 month,Acer,10,10,2,4mm,dead,2,2,1,1,
+3 month,Acer,10,10,2,control,dead,0,2,0,0,
+3 month,Acer,10,10,2,2mm,dead,0,5,0,0,
+3 month,Acer,10,10,3,2mm,dead,1,7,0.1,0,
+3 month,Acer,10,10,3,4mm,dead,3,5,0.6,1,
+3 month,Acer,10,10,3,control,dead,1,4,0.3,0,
+3 month,Acer,10,10,4,4mm,dead,1,1,1,1,
+3 month,Acer,10,10,4,control,dead,0,2,0,0,
+3 month,Acer,10,10,4,2mm,dead,2,2,1,1,
+3 month,Cnat,1,1,1,control,dead,0,2,0,0,healthy
+3 month,Cnat,1,1,1,4mm,dead,0,4,0,0,"three healthy, one losing tissue"
+3 month,Cnat,1,1,1,2mm,dead,0,13,0,0,"healthy, updated day 0 count 10->13"
+3 month,Cnat,1,1,2,control,dead,21,21,1,1,"started unhealthy day 0, DO NOT USE"
+3 month,Cnat,1,1,2,4mm,dead,3,13,0.2,0,"receding/unhealthy, some actively losing tissue"
+3 month,Cnat,1,1,2,2mm,dead,0,18,0,0,50/50 healthy
+3 month,Cnat,1,1,3,control,dead,0,5,0,0,healthy
+3 month,Cnat,1,1,3,2mm,dead,0,7,0,0,healthy with slight abrasion
+3 month,Cnat,1,1,3,4mm,dead,0,3,0,0,healthy
+3 month,Cnat,1,1,4,4mm,dead,0,24,0,0,"updated day 0 count 12->24, healthy"
+3 month,Cnat,1,1,4,control,dead,0,12,0,0,"updated day 0 count 9->12, healthy"
+3 month,Cnat,1,1,4,2mm,dead,0,7,0,0,"one has slight abrasion, others healthy"
+3 month,Pstr,1,1,1,2mm,dead,0,38,0,0,90% healthy
+3 month,Pstr,1,1,1,4mm,dead,0,18,0,0,healthy
+3 month,Pstr,1,1,1,control,dead,0,13,0,0,healthy
+3 month,Pstr,1,1,2,2mm,dead,0,1,0,0,slightly receding
+3 month,Pstr,1,1,2,4mm,dead,0,3,0,0,one polyp 10% tissue loss
+3 month,Pstr,1,1,2,control,dead,0,3,0,0,slight tissue receding
+3 month,Pstr,1,1,3,control,dead,0,2,0,0,healthy
+3 month,Pstr,1,1,3,2mm,dead,0,2,0,0,R/U
+3 month,Pstr,1,1,3,4mm,dead,0,3,0,0,R/U
+3 month,Pstr,1,1,4,4mm,dead,0,1,0,0,healthy
+3 month,Pstr,1,1,4,control,dead,0,1,0,0,slight tissue receding
+3 month,Pstr,1,1,4,2mm,dead,0,1,0,0,slight tissue receding
+3 month,Ofav,1,1,1,2mm,dead,0,6,0,0,"updated day 0 count 5->6, healthy"
+3 month,Ofav,1,1,1,4mm,dead,0,10,0,0,"one unhealthy, nine healthy"
+3 month,Ofav,1,1,1,control,dead,0,9,0,0,"very healthy, skirting out"
+3 month,Ofav,1,1,2,2mm,dead,0,1,0,0,healthy
+3 month,Ofav,1,1,2,4mm,dead,0,3,0,0,healthy
+3 month,Ofav,1,1,2,control,dead,0,1,0,0,healthy
+3 month,Cnat,2,2,1,4mm,dead,3,3,1,1,
+3 month,Cnat,2,2,1,control,dead,0,9,0,0,
+3 month,Cnat,2,2,1,2mm,dead,0,9,0,0,
+3 month,Cnat,2,2,2,2mm,dead,0,15,0,0,half of them tentscles retracted
+3 month,Cnat,2,2,2,4mm,dead,0,19,0,0,
+3 month,Cnat,2,2,2,control,dead,0,22,0,0,majority of tentacles retracted
+3 month,Cnat,2,2,3,4mm,dead,0,3,0,0,tentacles retracted
+3 month,Cnat,2,2,3,control,dead,0,6,0,0,tentacles retracted except bottom one
+3 month,Cnat,2,2,3,2mm,dead,1,2,0.5,1,
+3 month,Cnat,2,2,4,2mm,dead,0,1,0,0,
+3 month,Cnat,2,2,4,4mm,dead,1,4,0.3,0,tissue receding on all
+3 month,Cnat,2,2,4,control,dead,0,6,0,0,
+3 month,Ofav,2,2,1,4mm,dead,2,2,1,1,
+3 month,Ofav,2,2,1,control,dead,0,5,0,0,
+3 month,Ofav,2,2,1,2mm,dead,0,4,0,0,barely
+3 month,Ofav,2,2,2,2mm,dead,2,2,1,1,tissue melting off
+3 month,Ofav,2,2,2,4mm,dead,1,2,0.5,1,
+3 month,Ofav,2,2,2,control,dead,0,2,0,0,tentacles slightly retracted
+3 month,Pstr,2,2,1,4mm,dead,1,2,0.5,1,
+3 month,Pstr,2,2,1,control,dead,0,3,0,0,
+3 month,Pstr,2,2,1,2mm,dead,1,2,0.5,1,smaller one barely alive
+3 month,Pstr,2,2,2,2mm,dead,0,4,0,0,"tentacles slightly retracted, alive but not great"
+3 month,Pstr,2,2,2,4mm,dead,1,4,0.3,0,will prob be dead in follow up
+3 month,Pstr,2,2,2,control,dead,0,4,0,0,
+3 month,Pstr,2,2,3,4mm,dead,5,20,0.3,0,tentacles retracted on vest
+3 month,Pstr,2,2,3,control,dead,0,6,0,0,
+3 month,Pstr,2,2,3,2mm,dead,3,16,0.2,0,"tentacles slightly retracted, top cluster healthier"
+3 month,Pstr,2,2,4,2mm,dead,0,1,0,0,
+3 month,Pstr,2,2,4,4mm,dead,1,1,1,1,
+3 month,Pstr,2,2,4,control,dead,0,1,0,0,
+3 month,Cnat,3,3,1,control,dead,6,17,0.4,0,
+3 month,Cnat,3,3,1,2mm,dead,18,18,1,1,
+3 month,Cnat,3,3,1,4mm,dead,10,12,0.8,1,
+3 month,Cnat,3,3,2,4mm,dead,0,10,0,0,
+3 month,Cnat,3,3,2,control,dead,0,6,0,0,
+3 month,Cnat,3,3,2,2mm,dead,4,5,0.8,1,
+3 month,Cnat,3,3,3,2mm,dead,0,5,0,0,
+3 month,Cnat,3,3,3,4mm,dead,3,3,1,1,
+3 month,Cnat,3,3,3,control,dead,1,2,0.5,1,
+3 month,Cnat,3,3,4,control,dead,4,4,1,1,
+3 month,Cnat,3,3,4,2mm,dead,0,7,0,0,
+3 month,Cnat,3,3,4,4mm,dead,1,2,0.5,1,slightly receding but looks healthy
+3 month,Pstr,3,3,1,control,dead,0,6,0,0,slightly receding but looks healthy
+3 month,Pstr,3,3,1,2mm,dead,1,4,0.3,0,"one looks healthy, others tissue receding"
+3 month,Pstr,3,3,1,4mm,dead,2,2,1,1,
+3 month,Pstr,3,3,2,4mm,dead,3,3,1,1,
+3 month,Pstr,3,3,2,control,dead,0,2,0,0,"slightly receding, but look healthy"
+3 month,Pstr,3,3,2,2mm,dead,2,2,1,1,
+3 month,Pstr,3,3,3,4mm,dead,1,1,1,1,
+3 month,Pstr,3,3,3,control,dead,2,2,1,1,tissue actively sloughing off
+3 month,Pstr,3,3,3,2mm,dead,2,2,1,1,check photos to make sure right tile
+3 month,Pstr,3,3,4,control,dead,0,4,0,0,healthy
+3 month,Pstr,3,3,4,2mm,dead,0,3,0,0,"slight tissue receding, but look okay"
+3 month,Pstr,3,3,4,4mm,dead,6,6,1,1,
+3 month,Ofav,3,3,1,control,dead,0,19,0,0,healthy
+3 month,Ofav,3,3,1,2mm,dead,9,13,0.7,1,"live look healthy, one is neighboring active tissue loss"
+3 month,Ofav,3,3,1,4mm,dead,44,44,1,1,
+3 month,Ofav,3,3,2,4mm,dead,2,2,1,1,
+3 month,Ofav,3,3,2,control,dead,3,4,0.8,1,live U/R
+3 month,Ofav,3,3,2,2mm,dead,2,2,1,1,
+3 month,Cnat,5,5,1,2mm,dead,0,10,0,0,slight tissue receding
+3 month,Cnat,5,5,1,4mm,dead,7,7,1,1,
+3 month,Cnat,5,5,1,control,dead,7,7,1,1,ciliates (or some bug) consuming tissue
+3 month,Cnat,5,5,2,control,dead,12,12,1,1,covered w/ algal film
+3 month,Cnat,5,5,2,2mm,dead,1,11,0.1,0,slight tissue receding but healthy
+3 month,Cnat,5,5,2,4mm,dead,5,5,1,1,
+3 month,Cnat,5,5,3,4mm,dead,15,15,1,1,
+3 month,Cnat,5,5,3,control,dead,2,10,0.2,0,U/R algal overgrown
+3 month,Cnat,5,5,3,2mm,dead,7,9,0.8,1,dead actively decomposing
+3 month,Cnat,5,5,4,control,dead,0,5,0,0,slight tissue receding
+3 month,Cnat,5,5,4,2mm,dead,2,3,0.7,1,"alive slight tissue receding, but looks good"
+3 month,Cnat,5,5,4,4mm,dead,6,6,1,1,
+3 month,Pstr,5,5,1,2mm,dead,0,2,0,0,slight tissue receding
+3 month,Pstr,5,5,1,4mm,dead,5,5,1,1,all decomposing
+3 month,Pstr,5,5,1,control,dead,0,3,0,0,healthy
+3 month,Pstr,5,5,2,control,dead,0,2,0,0,healthy
+3 month,Pstr,5,5,2,2mm,dead,2,2,1,1,
+3 month,Pstr,5,5,2,4mm,dead,3,4,0.8,1,"dead actively decomposing, live U/R"
+3 month,Pstr,5,5,3,2mm,dead,0,4,0,0,slight tissue receding but healthy
+3 month,Pstr,5,5,3,4mm,dead,1,1,1,1,
+3 month,Pstr,5,5,3,control,dead,5,5,1,1,remnant decomposing tissue still in polyps
+3 month,Pstr,5,5,4,control,dead,0,11,0,0,healthy
+3 month,Pstr,5,5,4,2mm,dead,2,9,0.2,0,live slight tissue receding but look okay
+3 month,Pstr,5,5,4,4mm,dead,5,5,1,1,actively decomposing
+3 month,Ofav,5,5,1,2mm,dead,0,8,0,0,healthy
+3 month,Ofav,5,5,1,4mm,dead,0,2,0,0,healthy
+3 month,Ofav,5,5,1,control,dead,0,4,0,0,healthy
+3 month,Ofav,5,5,2,control,dead,0,15,0,0,healthy
+3 month,Ofav,5,5,2,2mm,dead,24,26,0.9,1,"actively decomposing, tissue sloughing off"
+3 month,Ofav,5,5,2,4mm,dead,13,13,1,1,"half empty coralites, half remnant decomposing tissue"
+3 month,Ofav,5,5,3,4mm,dead,46,46,1,1,actively decomposing
+3 month,Ofav,5,5,3,control,dead,4,4,1,1,actively decomposing
+3 month,Ofav,5,5,3,2mm,dead,2,6,0.3,0,"live slightly receding, but healthy"
+3 month,Cnat,7,7,1,4mm,dead,19,19,1,1,
+3 month,Cnat,7,7,1,control,dead,22,22,1,1,polyps no longer on tile
+3 month,Cnat,7,7,1,2mm,dead,0,10,0,0,some have sediment in mouths
+3 month,Cnat,7,7,2,control,dead,2,2,1,1,no algal growth
+3 month,Cnat,7,7,2,2mm,dead,5,7,0.7,1,barely alive
+3 month,Cnat,7,7,2,4mm,dead,6,6,1,1,
+3 month,Cnat,7,7,3,control,dead,0,1,0,0,algal growth
+3 month,Cnat,7,7,3,2mm,dead,0,2,0,0,holding onto sediment
+3 month,Cnat,7,7,3,4mm,dead,0,4,0,0,one unhealthy
+3 month,Cnat,7,7,4,2mm,dead,0,7,0,0,"algae growing around, tissue receding inward"
+3 month,Cnat,7,7,4,4mm,dead,6,6,1,1,
+3 month,Cnat,7,7,4,control,dead,4,5,0.8,1,
+3 month,Pstr,7,7,1,4mm,dead,2,2,1,1,algal growth in skeleton
+3 month,Pstr,7,7,1,control,dead,0,4,0,0,"slight algal growth, day 0 updated 2->4"
+3 month,Pstr,7,7,1,2mm,dead,3,3,1,1,
+3 month,Pstr,7,7,2,control,dead,0,1,0,0,half tile w/ algae growth
+3 month,Pstr,7,7,2,2mm,dead,3,3,1,1,tissue melting off
+3 month,Pstr,7,7,2,4mm,dead,5,5,1,1,
+3 month,Pstr,7,7,3,control,dead,0,1,0,0,alive
+3 month,Pstr,7,7,3,2mm,dead,0,1,0,0,alive
+3 month,Pstr,7,7,3,4mm,dead,1,1,1,1,
+3 month,Pstr,7,7,4,2mm,dead,0,2,0,0,receding tissue
+3 month,Pstr,7,7,4,4mm,dead,1,1,1,1,sediment lodged in polyp
+3 month,Pstr,7,7,4,control,dead,0,1,0,0,
+3 month,Ofav,7,7,1,4mm,dead,1,1,1,1,
+3 month,Ofav,7,7,1,control,dead,0,1,0,0,"alive, lots of algal growth, not connected to tile *reglued"
+3 month,Ofav,7,7,1,2mm,dead,1,1,1,1,
+3 month,Ofav,7,7,2,control,dead,0,3,0,0,fuzzy algae
+3 month,Ofav,7,7,2,2mm,dead,1,1,1,1,lots of sediment stuck on super glue
+3 month,Ofav,7,7,2,4mm,dead,4,4,1,1,some tissue still on one
+3 month,Ofav,7,7,3,control,dead,2,8,0.3,0,healthy
+3 month,Ofav,7,7,3,2mm,dead,0,2,0,0,fuzzy algae around polyp
+3 month,Ofav,7,7,3,4mm,dead,4,4,1,1,
+3 month,Cnat,10,10,1,control,dead,4,4,1,1,no algal film
+3 month,Cnat,10,10,1,2mm,dead,0,6,0,0,"counted ten polyps, healthy"
+3 month,Cnat,10,10,1,4mm,dead,7,7,1,1,
+3 month,Cnat,10,10,2,4mm,dead,6,6,1,1,"actively decomposing, tissue in coralites"
+3 month,Cnat,10,10,2,control,dead,1,6,0.2,0,U/R
+3 month,Cnat,10,10,2,2mm,dead,0,5,0,0,"Tissue receding, but look healthy"
+3 month,Cnat,10,10,3,2mm,dead,1,11,0.1,0,tissue receding
+3 month,Cnat,10,10,3,4mm,dead,20,22,0.9,1,
+3 month,Cnat,10,10,3,control,dead,0,8,0,0,
+3 month,Cnat,10,10,4,4mm,dead,4,4,1,1,
+3 month,Cnat,10,10,4,control,dead,0,2,0,0,healthy
+3 month,Cnat,10,10,4,2mm,dead,0,4,0,0,healthy
+3 month,Pstr,10,10,1,control,dead,0,2,0,0,
+3 month,Pstr,10,10,1,2mm,dead,1,1,1,1,actively decomposing
+3 month,Pstr,10,10,1,4mm,dead,4,4,1,1,actively decomposing
+3 month,Pstr,10,10,2,4mm,dead,7,7,1,1,
+3 month,Pstr,10,10,2,control,dead,2,8,0.3,0,"live and half healthy, half unhealthy"
+3 month,Pstr,10,10,2,2mm,dead,4,7,0.6,1,receding
+3 month,Pstr,10,10,3,2mm,dead,0,4,0,0,"slightly receding, but healthy *changed day 0 3->5"
+3 month,Pstr,10,10,3,4mm,dead,2,3,0.7,1,unhealthy
+3 month,Pstr,10,10,3,control,dead,0,2,0,0,healthy
+3 month,Pstr,10,10,4,4mm,dead,1,1,1,1,
+3 month,Pstr,10,10,4,control,dead,0,4,0,0,
+3 month,Pstr,10,10,4,2mm,dead,1,1,1,1,
+3 month,Ofav,10,10,1,control,dead,2,2,1,1,not overgrown by algae
+3 month,Ofav,10,10,1,2mm,dead,3,3,1,1,
+3 month,Ofav,10,10,1,4mm,dead,2,2,1,1,
+3 month,Ofav,10,10,2,4mm,dead,5,5,1,1,
+3 month,Ofav,10,10,2,control,dead,0,2,0,0,healthy
+3 month,Ofav,10,10,2,2mm,dead,2,2,1,1,
+3 month,Ofav,10,10,3,2mm,dead,0,2,0,0,receding
+3 month,Ofav,10,10,3,4mm,dead,0,1,0,0,dead? tissue in skeleton not wafting away w/ pipette
+3 month,Ofav,10,10,3,control,dead,0,3,0,0,healthy
